@@ -45,7 +45,7 @@
 
 ---
 
-### 📅 My 30-Day Goal
+### 📅 My 200-Day Goal
 
 To master Web3 and DevOps foundations by building:
 - 🔐 2 Smart Contracts + Dapp UIs  
