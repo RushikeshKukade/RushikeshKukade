@@ -13,7 +13,7 @@
 - 🧰 Learning DevOps tools like **Docker, GitHub Actions, and AWS**
 - 🎓 GitHub Student Developer Pack Member
 - 🧠 Always exploring new cloud-native and decentralized tech
-- 📫 Reach me: [rushikukade355@gmail.com](mailto:rushikukade355@gmail.com)
+- 
 
 ---
 
