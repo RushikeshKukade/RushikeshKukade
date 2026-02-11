@@ -36,22 +36,6 @@
 </p>
 
 ---
-
-### 🚀 Currently Building
-
-- [ ] 3 dApps (Solidity + Hardhat)
-- [ ] GitHub Actions CI/CD for Web3 projects
-- [ ] DevOps deployment using Docker and AWS EC2
-
----
-
-### 📅 My 200-Day Goal
-
-To master Web3 and DevOps foundations by building:
-- 🔐 2 Smart Contracts + Dapp UIs  
-- ⚙️ 1 Automated CI/CD DevOps pipeline  
-- 💼 Apply to 5+ remote bounties or internships
-
 ---
 
 ### 📫 Let's Connect
