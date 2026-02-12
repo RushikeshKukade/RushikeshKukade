@@ -25,7 +25,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/your-handle)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/https://x.com/your-handlehttps://x.com/RushikeshK7204)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github)](https://rushikeshkukade.github.io)
 
 ---
