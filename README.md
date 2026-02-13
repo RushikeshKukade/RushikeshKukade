@@ -30,4 +30,4 @@
 
 ---
 
-<h5 align="center">🚀 Keep building. Keep shipping. The Web3 world is waiting.</h5>
+<h5 >🚀 Keep building. Keep shipping. The Web3 world is waiting.</h5>
