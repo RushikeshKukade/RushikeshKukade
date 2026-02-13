@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Kukade</h1>
-<h3 align="center">Web3.0 & DevOps Enthusiast | GitHub Student Developer</h3>
+<h1>Hi 👋, I'm Rushikesh Kukade</h1>
+<h3 >Web3.0 & DevOps Enthusiast | GitHub Student Developer</h3>
 <p> I’m an Information Technology graduate from Nagpur, India, focused on building real-world projects and growing into a global tech talent. My journey started with Data Analytics & Machine Learning, and now I’m transitioning into Web3, DevOps, and Blockchain Development — aiming for remote opportunities and impactful products.
 </p>
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=RushikeshKukade&label=Profile%20views&color=0e75b6&style=flat" alt="RushikeshKukade" />
 </p>
 
