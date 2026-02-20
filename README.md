@@ -24,8 +24,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/https://x.com/your-handlehttps://x.com/RushikeshK7204)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rushikesh-kukade-13214221a/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/RushikeshK7204)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github)](https://rushikeshkukade.github.io)
 
 ---
