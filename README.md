@@ -19,21 +19,6 @@ I’m an Information Technology graduate from Nagpur, India, focused on building
 - 🛠️ Building real-world projects to become job-ready
 - 🎬 Passionate about movies, storytelling & tech innovation
 - 🎯 Goal: Build global products & my own tech business
-
----
-
-### 🚀 Featured Project
-
-#### 🧠 Agent Run Panel (AI Multi-Agent System UI)
-
-- Real-time visualization of AI agent pipelines  
-- Handles parallel tasks, retries, cancellations  
-- Event-driven architecture with clean UI  
-
-**Tech:** React, Tailwind, Reducer-based state management  
-
----
-
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Languages
